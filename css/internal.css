@@ -49,9 +49,16 @@ z-index: 1;
     justify-content: flex-end;
 }
 .s-wrapper .s-main-content .s-logo img{
+    width: 800px;
     margin-top: 50px;
     margin-left: 0;
     margin-bottom: 30px;
+}
+
+.s-wrapper .s-main-content .s-logo__tom img{
+    width: 600px;
+    height: 150px;
+
 }
 
 .s-wrapper .s-main-content_top .s-description{
